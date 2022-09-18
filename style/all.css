@@ -10111,6 +10111,9 @@ textarea.form-control-lg {
   .text-sm-center {
     text-align: center !important;
   }
+  .bg-a-sm-fixed {
+    background-attachment: fixed !important;
+  }
 }
 @media (min-width: 768px) {
   .float-md-start {
@@ -10797,6 +10800,9 @@ textarea.form-control-lg {
   }
   .text-md-center {
     text-align: center !important;
+  }
+  .bg-a-md-fixed {
+    background-attachment: fixed !important;
   }
 }
 @media (min-width: 992px) {
@@ -11485,6 +11491,9 @@ textarea.form-control-lg {
   .text-lg-center {
     text-align: center !important;
   }
+  .bg-a-lg-fixed {
+    background-attachment: fixed !important;
+  }
 }
 @media (min-width: 1200px) {
   .float-xl-start {
@@ -12172,6 +12181,9 @@ textarea.form-control-lg {
   .text-xl-center {
     text-align: center !important;
   }
+  .bg-a-xl-fixed {
+    background-attachment: fixed !important;
+  }
 }
 @media (min-width: 1400px) {
   .float-xxl-start {
@@ -12858,6 +12870,9 @@ textarea.form-control-lg {
   }
   .text-xxl-center {
     text-align: center !important;
+  }
+  .bg-a-xxl-fixed {
+    background-attachment: fixed !important;
   }
 }
 @media (min-width: 1200px) {

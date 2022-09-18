@@ -762,6 +762,7 @@ $utilities: map-merge(
         ),
         'background-attachment': (
             property: background-attachment,
+            responsive: true,
             class: bg-a,
             values: (
                 fixed: fixed,
